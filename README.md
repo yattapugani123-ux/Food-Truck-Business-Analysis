@@ -1,6 +1,6 @@
-# 🚚 Food Truck Business Analysis
+#  Food Truck Business Analysis
 
-## 📊 Food Truck Sales Performance Dashboard — FY 2024
+##  Food Truck Sales Performance Dashboard — FY 2024
 
 A complete **Power BI business analytics project** for understanding food-truck sales performance, menu performance, location profitability, customer payment behavior, and demand patterns.
 
@@ -8,7 +8,7 @@ The project combines **data analysis, dashboard design, business storytelling, a
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 The objective of this project is to turn food-truck transaction data into practical business insights that can support:
 
@@ -21,7 +21,7 @@ The objective of this project is to turn food-truck transaction data into practi
 
 ---
 
-## 📈 Dashboard Structure
+##  Dashboard Structure
 
 ### 1. Overview
 
@@ -64,7 +64,7 @@ Focuses on locations, customer behavior, and transactions:
 
 ---
 
-## 🔑 Key Business Results
+##  Key Business Results
 
 | KPI | FY 2024 |
 |---|---:|
@@ -88,7 +88,7 @@ Focuses on locations, customer behavior, and transactions:
 
 ---
 
-## 🛠️ Tools & Skills Used
+##  Tools & Skills Used
 
 **Power BI**  
 **DAX**  
@@ -101,7 +101,7 @@ Focuses on locations, customer behavior, and transactions:
 
 ---
 
-## 📂 Project Deliverables
+##  Project Deliverables
 
 Recommended repository structure:
 
@@ -129,7 +129,7 @@ Food-Truck-Business-Analysis/
 
 ---
 
-## 📌 Business Recommendations
+##  Business Recommendations
 
 ### Menu Strategy
 
@@ -151,20 +151,20 @@ Food-Truck-Business-Analysis/
 
 ---
 
-## 📄 Final Report
+##  Final Report
 
 The accompanying analytical report provides detailed explanations of the methodology, KPIs, product performance, category performance, location analysis, payment behavior, demand patterns, insights, recommendations, and conclusion.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Ganesh Kumar Reddy**  
 Data Analyst | Aspiring Product Designer
 
 ---
 
-## ⭐ Project Focus
+##  Project Focus
 
 > **Turning food-truck transaction data into clear business decisions — from the menu and location to staffing and customer experience.**
 
