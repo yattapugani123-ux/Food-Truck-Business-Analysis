@@ -1,6 +1,6 @@
 #  Food Truck Business Analysis
 
-##  Food Truck Sales Performance Dashboard — FY 2024
+##  Food Truck Sales Performance Dashboard — FY 2026
 
 A complete **Power BI business analytics project** for understanding food-truck sales performance, menu performance, location profitability, customer payment behavior, and demand patterns.
 
