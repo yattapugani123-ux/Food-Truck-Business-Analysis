@@ -165,7 +165,7 @@ Data Analyst | Aspiring Product Designer
 ---
 
 ##  Project Focus
-
+**Link** : https://www.linksconverter.com/job/a64795f8-c5f5-4a82-b85c-31dc02c5cede
 > **Turning food-truck transaction data into clear business decisions — from the menu and location to staffing and customer experience.**
 
 ---
